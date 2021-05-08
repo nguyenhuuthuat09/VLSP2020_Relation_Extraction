@@ -1,5 +1,8 @@
-<p align="center"><h3 align="center">VLSP 2020: Relation Extraction</h3></p>
+<p align="center">
+<h3 align="center">VLSP 2020: Relation Extraction</h3>
 <p align="center">Vietnamese Relation Extraction with BERT-based Models at VLSP 2020</p>
+</p>
+
 
 
 <!-- ABOUT THE PROJECT -->
