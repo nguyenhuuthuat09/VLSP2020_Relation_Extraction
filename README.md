@@ -23,9 +23,9 @@ Please contact VLSP 2020 Organizers for dataset. You can follow their guide at: 
 
 In the project, we have five notebooks, you can upload and use it with [Google Colab](https://colab.research.google.com/).
 
-- VLSP2020_RE_extract_[train, dev, test]: You can use these notebooks to extract information from the raw datasets. Please remember to upload original VLSP 2020 dataset to respective notebooks. You don't need GPU to run these notebook.
-- VSLP2020_RE_model_training: This notebook uses output extracted from the raw training and development data to train the model.
-- VLSP2020_RE_model_test: This notebook uses saved flags.txt and pretrained model from the training notebook's output to get final results on test data. However, due to an accident, I lost the code that helps to save the final results to files in the format required by the organizers.
+* **VLSP2020_RE_extract_*[train, dev, test]***: You can use these notebooks to extract information from the raw datasets. Please remember to upload original VLSP 2020 dataset to respective notebooks. You don't need GPU to run these notebook.
+* **VSLP2020_RE_model_training**: This notebook uses output extracted from the raw training and development data to train the model.
+* **VLSP2020_RE_model_test**: This notebook uses saved flags.txt and pretrained model from the training notebook's output to get final results on test data. However, due to an accident, I lost the code that helps to save the final results to files in the format required by the organizers.
 
 <!-- CONTACT -->
 ## Contact
