@@ -10,7 +10,9 @@
 
 This project contains source code for [our approach](https://www.aclweb.org/anthology/2020.vlsp-1.6/) to solve [Relation Extraction task at VSLP 2020](https://vlsp.org.vn/vlsp2020/eval/re). The detail of our approach is described in the following paper: 
 
-[Nguyen, T., & Trong, H. M. D. (2020). Vietnamese Relation Extraction with BERT-based Models at VLSP 2020. Vietnamese Language and Speech Processing, 30.](https://www.aclweb.org/anthology/2020.vlsp-1.6.pdf)
+[Thuat Nguyen and Hieu Man Duc Trong. Vietnamese Relation Extraction with BERT-based 
+Models at VLSP 2020. In Proceedings of the 7th International Workshop on Vietnamese Language 
+and Speech Processing, 2020.](https://www.aclweb.org/anthology/2020.vlsp-1.6.pdf)
 
 <!-- USAGE -->
 ## Usage
